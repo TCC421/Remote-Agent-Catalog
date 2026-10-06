@@ -344,7 +344,7 @@ Remote Ripple,remoteripple.com,RemoteRipple.exe,RMM
 NTR Remote,,NTRsupportPro_EN.exe,RMM
 FleetDeck.io,fleetdeck.io,"fleetdeck-agent.exe,fleetdeck_installer,fleetdeck_agent_svc.exe,fleetdeck_agent.exe,fleetdeck_commander_svc.exe,fleetdeck_installer.exe,fleetdeck_commander_launcher.exe",RMM
 Remmon,,remmon.exe,RMM
-Overlord,github.com/doesntbreaktos/Overlord,"svchost-windows-amd64-*.exe,svchost.exe,ovd_*.exe,agent.exe,agent-windows-amd64-*.exe",Remote Access
+Overlord,github.com/doesntbreaktos/Overlord,"svchost-windows-amd64-*.exe,ovd_*.exe,agent.exe,agent-windows-amd64-*.exe",Remote Access
 SetMe PRO,setme.net,"SetMe_Client.exe,tinUnattendedModule.exe",RMM
 Remcos,,remcos*.exe,RMM
 PuTTY,chiark.greenend.org.uk/~sgtatham/putty,putty.exe,Remote Access
