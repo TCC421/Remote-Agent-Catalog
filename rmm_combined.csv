@@ -1,356 +1,356 @@
 ﻿Software,Domain,Executables,Category
+247ithelp.com (ConnectWise),247ithelp.com,Remote Workforce Client.exe,RMM
+Absolute (Computrace),absolute.com,"rpcnet.exe,ctes.exe,ctespersistence.exe,cteshostsvc.exe,rpcld.exe",RMM
 Access Remote PC,remotedesktop.com,"rpcgrab.exe,rpcsetup.exe",RMM
+Acronis Cyber Protect (Remotix),acronis.com/en/products/cyber-protect-connect,"AcronisCyberProtectConnectQuickAssist*.exe,AcronisCyberProtectConnectAgent.exe",RMM
 Action1,action1.com,"action1_agent.exe,action1_connector.exe",RMM
+Addigy,addigy.com,,RMM
+Adobe Connect,adobe.com/products/adobeconnect.html,"ConnectAppSetup.exe,ConnectAppSetup*.exe,ConnectShellSetup*.exe,Connect.exe,ConnectDetector.exe",Remote Access
 AeroAdmin,aeroadmin.com,aeroadmin.exe,RMM
 AliWangWang-remote-control,wangwang.taobao.com,alitask.exe,RMM
+Allocentra,allocentra.co.za,allocentra-agent.exe,RMM
 Alpemix,alpemix.com,"alpemix.exe,Alpemix,AlpemixService.exe",RMM
 AmmyyAdmin,ammyy.com,"AMMYY_Admin.exe,AA_v3.exe,aa_v*.exe",RMM
+Any Support,anysupport.net,ManualLauncher.exe,RMM
 AnyDesk,anydesk.com,"anydesk.exe,AnyDesk-*.exe",RMM
 Anyplace Control,anyplace-control.com,apc_host.exe,RMM
+AnyViewer,anyviewer.com,"AnyViewer.exe,AnyViewer",RMM
+Apple Remote Desktop,apple.com/remotedesktop,,Remote Access
+Aspia,aspia.org,aspia_client.exe,RMM
+Atera,atera.com,"AteraAgent.exe,AgentPackageNetworkDiscovery.exe,AgentPackageTaskScheduler.exe,atera_agent.exe,syncrosetup.exe",RMM
 Atera RMM,atera.com,"ateraagent.exe,syncrosetup.exe",RMM
 Auvik,auvik.com,"auvik.agent.exe,auvik.engine.exe",RMM
+AweRay,awesun.aweray.com/en,"aweray_remote*.exe,AweSun.exe",RMM
+baramundi Management Suite,baramundi.com/en-us,bma.exe,RMM
 Barracuda,barracudamsp.com,,RMM
 Basecamp,basecamp.com,,RMM; Remote Access
+Basic RMM Agent,,agent.exe,RMM
+Beacon (Synertek),github.com/synertek-cloud-services/beacon,beacon-agent.exe,RMM
 BeamYourScreen,beamyourscreen.com,"beamyourscreen.exe,beamyourscreen-host.exe",RMM
 BeAnywhere,beanywhere.en.uptodown.com/windows,"basupsrvc.exe,basupsrvcupdate.exe,basuptshelper.exe,BASupApp.exe,BASupSysInf.exe,BASupAppSrvc.exe,TakeControl.exe,BASupAppElev.exe",RMM
+BeInSync,,Beinsync*.exe,Remote Access
+BeyondTrust,,,RMM
+BeyondTrust (Bomgar),beyondtrust.com/products/remote-support,"bomgar-scc-*.exe,bomgar-scc.exe,bomgar-pac-*.exe,bomgar-pac.exe,bomgar-rdp.exe",RMM
+Bitvise SSH Client,bitvise.com/ssh-client,BvSshClient-Inst.exe,Remote Access
+Bitvise SSH Server,bitvise.com/ssh-server,BvSshServer-Inst.exe,Remote Access
+BlackCrypt RMM Agent,,,RMM
+Bluetrait,bluetrait.io,Bluetrait MSP Agent.exe,Remote Access
 Bomgar,beyondtrust.com/brand/bomgar,bomgar-scc.exe,RMM
+Borealis,github.com/bunny-lab-io/Borealis,,RMM
+BreezeRMM,breezermm.com,"breeze-agent.exe,PixoIT-agent.exe",RMM
 CentraStage (Now Datto),datto.com/au/products/rmm/,"CagService.exe,AEMAgent.exe",RMM
 Centurion,,ctiserv.exe,RMM
+CHAOS RAT,github.com/tiagorlampert/CHAOS,,Remote Access
+Chicken (of the VNC),github.com/flit/cotvnc,,Remote Access
 Chrome Remote Desktop,remotedesktop.google.com,"remote_host.exe,remoting_host.exe",RMM; Remote Access
+Chrome SSH Extension,chromewebstore.google.com/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd,,Remote Access
 CloudFlare Tunnel,cloudflare.com/products/tunnel/,cloudflared.exe,Remote Access
-ConnectWise Control,control.connectwise.com,"connectwisechat-customer.exe,connectwisecontrol.client.exe,screenconnect.windowsclient.exe",RMM
 Comodo RMM,one.comodo.com,"itsmagent.exe,rviewer.exe",RMM
+ConnectWise,screenconnect.com,,RMM
+Connectwise Automate (LabTech),connectwise.com/platform/automate,"ltsvc.exe,ltsvcmon.exe,lttray.exe",RMM
+ConnectWise Control,control.connectwise.com,"connectwisechat-customer.exe,connectwisecontrol.client.exe,screenconnect.windowsclient.exe",RMM
+Controlio,controlio.net,"wesvc.exe,weCliboardListener.exe,bbl.exe,weprtct.exe,wemonc.exe,wec_launcher_[a-Z0-9]*_.exe,weInstSvc.exe",RMM
+ControlR,controlr.app,"ControlR.Agent.Installer.exe,ControlR.Agent.exe,ControlR.DesktopClient.exe",RMM
 CrossLoop,crossloop.en.softonic.com,"crossloopservice.exe,CrossLoopConnect.exe,WinVNCStub.exe",RMM
 CrossTec Remote Control,crosstecsoftware.com/remotecontrol,"PCIVIDEO.EXE,supporttool.exe",RMM
 Cruz,resources.doradosoftware.com/cruz-rmm,,RMM
+CruzControl,doradosoftware.com/products/cruzcontrol,,RMM
+DameWare,solarwinds.com/dameware,"SolarWinds-Dameware-DRS*.exe,DameWare Mini Remote Control*.exe,dntus*.exe,dwrcs.exe,dwrcst.exe,DameWare Remote Support.exe,SolarWinds-Dameware-MRC*.exe",RMM
 Dameware-mini remote control Protocol,dameware.com,"dntus*.exe,dwrcs.exe",RMM
+Dataplicity,dataplicity.com,dataplicity,Remote Access
 Datto,datto.com,,RMM
 DeskDay,deskday.ai,ultimate_*.exe,RMM
+DeskNets,desknets.com,,RMM
+DeskShare,deskshare.com,"TeamTaskManager.exe,DSGuest.exe",RMM
+DesktopNow,nchsoftware.com/remotedesktop/index.html,desktopnow.exe,RMM
 Dev Tunnels (aka Visual Studio Dev Tunnel),learn.microsoft.com/en-us/azure/developer/dev-tunnels/overview,,Developer Utility; Remote Access
+Devolutions Remote Desktop Manager,devolutions.net/remote-desktop-manager,"RemoteDesktopManager.exe,RemoteDesktopManager",Remote Access
+Distant Desktop,distantdesktop.com,"ddsystem.exe,dd.exe,distant-desktop.exe",RMM
 Domotz,domotz.com,"domotz_bash.exe,domotz.exe,Domotz Pro Desktop App.exe,domotz*.exe,Domotz Pro Desktop App Setup*.exe,domotz-windows*.exe",RMM
+DragonDisk,,DragonDisk.exe,Remote Access
+Duet Display,duetdisplay.com/remote-desktop-access-software,"duet.exe,DuetDisp.exe,DuetSetup.exe",Remote Access
+Duplicati,duplicati.com,Duplicati.Server.exe,Remote Access
 dwservice,dwservice.net,"dwagsvc.exe,dwagent.exe,dwaglnc.exe",RMM
 Echoware,,echoserver*.exe,RMM
 eHorus,ehorus.com,"ehorus standalone.exe,ehorus_agent.exe,ehorus_cmd.exe,ehorus_launcher.exe,ehorus_uit.exe",RMM
 Electric,electric.ai,,RMM
+Electric AI (Kaseya),electric.ai,,RMM
 EMCO Remote Console,emcosoftware.com,remoteconsole.exe,RMM
 Encapto,encapto.com,,RMM
+Endar,github.com/tomkeene/endar,endar.exe,RMM
 Ericom AccessNow,ericom.com,"accessserver.exe,accessserver*.exe",RMM
 Ericom Connect,ericom.com,"ericomconnnectconfigurationtool.exe,EricomConnectRemoteHost*.exe,ericomconnectconfigurationtool.exe",RMM
 ESET Remote Administrator,eset.com/me/business/remote-management/remote-administrator/,"era.exe,ezhelp*.exe,eratool.exe,einstaller.exe,ERAAgent.exe",RMM
+ExtraPuTTY,sourceforge.net/projects/extraputty,ExtraPuTTY-0.30-2016-01-28-installer.exe,Remote Access
 ezHelp,ezhelp.co.kr,"ezhelpclient.exe,ezhelpclientmanager.exe,ezHelpManager.exe",RMM
+Faronics Core,faronics.com/products/faronics-core,"FaronicsCoreAgent.exe,CoreAgentService.exe",RMM
+Faronics Deep Freeze,faronics.com/products/deep-freeze,"DFServ.exe,DFServEx.exe,DFWks.exe,DFC.exe,DFStd.exe,DFStdInstall.exe,CloudWksInstall.exe,DFInst.exe",RMM
+Faronics Deploy,faronics.com/products/deploy,"FaronicsDeployAgent.exe,FWAService.exe,FWA_UI_Agent.exe,FRCServer.exe,FaronicsSA.exe,FSSInstaller.exe,ModulesUpgradeMgr.exe,NotificationHelper.exe,UserNotificationHelper.exe,MigrationHelper_32.exe,MigrationHelper_64.exe,FWAWebInstaller_*.exe,CloudWksInstall.exe",RMM
+Faronics Insight,faronics.com/products/insight,"FIStudentSvc.exe,STAHelper.exe,FIStudentAgent.exe,FIStudentUI.exe,StudentSvc.exe,InsightInstaller.exe,InsightInstallerStudent.exe,InsightInstallerTeacher.exe",RMM
 FastViewer,fastviewer.com,"fastclient.exe,fastmaster.exe,FastViewer.exe",RMM
 FixMe.it,fixme.it,"fixmeitclient.exe,FixMeit Client.exe,TiExpertStandalone.exe,FixMeitClient*.exe,TiExpertCore.exe,FixMeit Unattended Access Setup.exe,FixMeit Expert Setup.exe,TiClientCore.exe,TiClientHelper*.exe",RMM
 FleetDeck,fleetdeck.io,fleetdeck_agent_svc.exe,RMM
+FleetDeck.io,fleetdeck.io,"fleetdeck-agent.exe,fleetdeck_installer,fleetdeck_agent_svc.exe,fleetdeck_agent.exe,fleetdeck_commander_svc.exe,fleetdeck_installer.exe,fleetdeck_commander_launcher.exe",RMM
 Fortra,fortra.com,,RMM
+Free Ping Tool,,,Remote Access
+Free Tools Launcher,manageengine.com/free-tools.html,,RMM
+FreeNX,,nxplayer.exe,Remote Access
+FreeRDP,freerdp.com,,Remote Access
+Freshservice,freshworks.com/freshservice,"FSAgentService.exe,Freshservice.DiscoveryProbe.ScanService.exe,Freshservice.DiscoveryProbe.Window.exe,plink.exe,FSAgentAutoUpdate.exe,FSWmiScanner.exe",RMM
 GatherPlace-desktop sharing,gatherplace.com,"gp3.exe,gp4.exe,gp5.exe",RMM
 GetScreen,getscreen.me,"getscreen.exe,getscreen-x86.exe,getscreen.upd.exe",RMM
+GLPI Agent,glpi-project.org,glpi-agent,RMM
+Go Mini RMM,github.com/cevrimxe/go-mini-rmm,agent.exe,RMM
+GO RMM,,,RMM
+Gorelo RMM,gorelo.io/remote-management,Gorelo.Rmm.Setup.exe,RMM
+GoTo Opener,support.goto.com/meeting/help/about-the-goto-opener,,RMM
 GoToAssist,goto.com,"g2a*.exe,gotoassist.exe,GoTo Assist Opener.exe,g2mcomm.exe,goto opener.exe,g2ax_comm_customer.exe",RMM
+GoToAssist (GoTo Resolve),logmein.com/products/resolve,"GoToResolveExternalModuleHandler.exe,GoToResolveFileManager.exe,GoToResolveLoggerProcess.exe,GoToResolveNetworkChecker.exe,GoToResolveProcessChecker.exe,GoToResolveQuickView.exe,GoToResolveRegistryEditor.exe,GoToResolveRemoteControl.exe,GoToResolveService.exe,GoToResolveServiceManager.exe,GoToResolveTerminal.exe,GoToResolveTools32.exe,GoToResolveTools64.exe,GoToResolveUi.exe,GoToResolveUnattended.exe,GoToResolveUnattendedRemover.exe,GoToResolveUnattendedUi.exe",RMM
+GoToAssist Agent Desktop Console,console.gotoassist.com,,RMM
 GotoHTTP,gotohttp.com,"gotohttp.exe,GotoHTTP_x64.exe,GotoHTTP*.exe",RMM
 GoToMyPC,get.gotomypc.com,"g2file*.exe,g2quick.exe,g2svc.exe,g2tray.exe,AppCore.exe,G2M.exe",RMM
 Goverlan,goverlan.com,"goverrmc.exe,govsrv*.exe,GovAgentInstallHelper.exe,GovAgentx64.exe,GovReachClient.exe,GovSrv.exe",RMM
 Guacamole,guacamole.apache.org,guacd.exe,RMM; Remote Access
+GxM RMM Agent,,GxM.Agent.exe,RMM
+HeartbeatRM,heartbeatrm.com,"agent-installer-any.exe,hbrm-x64.exe,hbrm-updater-x64.exe",RMM
 HelpBeam,helpbeam.software.informer.com,helpbeam*.exe,RMM
+HelpU,helpu.co.kr,"helpu_install.exe,HelpuUpdater.exe,HelpuManager.exe",RMM
+HelpWire,helpwire.app,"HelpWire Quick.exe,helpwire.exe",RMM
+HopToDesk,hoptodesk.com,"HopToDesk.exe,HopToDesk-Standalone.exe",RMM
+iDrive,idrive.com,"IDriveWinSetup.exe,IDriveEClassic.exe,id_tray.exe",Remote Access
 I'm InTouch,01com.com/imintouch-remote-pc-desktop,"iit.exe,intouch.exe,I'm InTouch Go Installer.exe",RMM
+ImmyBot,immy.bot,"ImmyAgent.exe,ImmyUpdater.exe,ImmyBot.Agent.Ephemeral.exe",RMM
+Impero Connect,,ImperoClientSVC.exe,RMM
 Instant Housecall,instanthousecall.com,"hsloader.exe,ihcserver.exe,instanthousecall.exe",RMM
+Insync,,Insync.exe,Remote Access
 IntelliAdmin Remote Control,intelliadmin.com/remote-control,"iadmin.exe,intelliadmin.exe,agent32.exe,agent64.exe,agent_setup_5.exe",RMM
+InvGate,invgate.com,"InvGate-ED.exe,DepHlp.exe,InvGateAssetsRD.exe,InvGateRD.exe",RMM
 Iperius Remote,iperiusremote.com,"iperius.exe,iperiusremote.exe",RMM
-Itarian,itarian.com/rmm,"ITSMAgent.exe,ItsmRsp.exe,ITSMService.exe,RDesktop.exe,RHost.exe,RmmService.exe,RViewer.exe,RAccess.exe,ITarianRemoteAccessSetup.exe,ComodoRemoteControl.exe",RMM
 ISL Light,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe",RMM
+ISL Online,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe,ISLLightClient.exe",RMM
+IT Agent,itagent.com/it-agent-remote-access,"ITAgentRMMSender.exe,ITAgentRMMSenderSL.exe,ITAgentRMMSenderUpdater.exe",RMM
+Itarian,itarian.com/rmm,"ITSMAgent.exe,ItsmRsp.exe,ITSMService.exe,RDesktop.exe,RHost.exe,RmmService.exe,RViewer.exe,RAccess.exe,ITarianRemoteAccessSetup.exe,ComodoRemoteControl.exe",RMM
+ITSupport247 (ConnectWise),control.itsupport247.net,saazapsc.exe,RMM
+Ivanti Remote Control,ivanti.com/use-cases/remote-control-all-of-my-devices-worldwide,"IvantiRemoteControl.exe,ArcUI.exe,AgentlessRC.exe",RMM
+JollysFastVNC,jinx.de/JollysFastVNC.html,,Remote Access
+Jump Cloud,jumpcloud.com/platform/remote-assistance,JumpCloud*.exe,RMM
 Jump Desktop,jumpdesktop.com,"jumpclient.exe,jumpdesktop.exe,jumpservice.exe,jumpconnect.exe,jumpupdater.exe",RMM
 Kabuto,repairtechsolutions.com/kabuto/,Kabuto.App.Runner.exe,RMM
 Kaseya (aka Unigma),kaseya.com,"agentmon.exe,pcmonitormanager.exe,pcmonitorsrv.exe,pcmontask.exe,pcmonusertask.exe,pcmupdate.exe",RMM
+Kaseya (VSA),kaseya.com,agentmon.exe,RMM
+KHelpDesk,khelpdesk.com.br,KHelpDesk.exe,RMM
 KickIdler,kickidler.com,,RMM
+KiTTY,9bis.net/kitty,kitty.exe,Remote Access
+Komari,github.com/komari-monitor/komari,komari.exe,RMM
+Koofr,,,Remote Access
+LabTeach (Connectwise Automate),connectwise.com/platform/automate,ltsvc.exe,RMM
 LabTech RMM (Now ConnectWise Automate),connectwise.com,"ltsvc.exe,ltsvcmon.exe,lttray.exe",RMM
 LANDesk,ivanti.com,"issuser.exe,landeskagentbootstrap.exe,ldinv32.exe,ldsensors.exe,LANDeskPortalManager.exe,softmon.exe,tmcsvc.exe",RMM
 Laplink Everywhere,everywhere.laplink.com,"laplink.exe,laplinkeverywhere.exe,llrcservice.exe,serverproxyservice.exe,laplink-everywhere-setup*.exe,OOSysAgent.exe",RMM
 Laplink Gold,wen.laplink.com/product/laplink-gold,"laplink.exe,tsircusr.exe",RMM
+Lavawall,lavawall.com,LavawallWin.exe,RMM
 Level,level.io,"level-windows-amd64.exe,level.exe,level-remote-control-ffmpeg.exe",RMM
+LightRmmAgent,,LightRmmAgentService.exe,RMM
 LiteManager,litemanager.com,"romfusclient.exe,romserver.exe,romviewer.exe,lmnoipserver.exe",RMM
+LocalXpose,localxpose.io,loclx.exe,Remote Access
 LogMeIn,logmein.com/central,"lmiguardiansvc.exe,lmiignition.exe,logmein.exe,logmeinsystray.exe",RMM
 LogMeIn rescue,logmeinrescue.com,"support-logmeinrescue*.exe,support-logmeinrescue.exe,lmi_rescue.exe,lmi_rescue_srv.exe",RMM
+LS RMM,,"LS RMM.exe,LS RMM Worker.exe",RMM
+Lunixar,lunixar.com/en,"Lunixar.exe,LunixarRemote.exe,LunixarUpdater.exe",RMM
+Manage Engine (Desktop Central),desktopcentral.manageengine.com,"dcagentservice.exe,dcagentregister.exe",RMM
+ManageEngine,manageengine.com,"InstallShield Setup.exe,ManageEngine_Remote_Access_Plus.exe,dcagentservice.exe",RMM
 ManageEngine RMM Central,manageengine.com/remote-monitoring-management/,,RMM
+ManageEngine ServiceDesk Plus,manageengine.com/products/service-desk,"ManageEngine_ServiceDesk_Plus.exe,InstallShield Setup.exe",RMM
+MEGAsync,mega.io/desktop,"MEGAsyncSetup64.exe,MEGAupdater.exe",Remote Access
 MeshCentral,meshcentral.com,"mesh*.exe,MeshAgent.exe,meshcentral*.exe,meshagent*.exe",RMM
+Microsoft Quick Assist,support.microsoft.com/windows/solve-pc-problems-remotely-using-quick-assist-b077e31a-16f4-2529-1a47-21f6a9040bf3,quickassist.exe,Remote Access
 Mikogo,mikogo.com,"mikogo.exe,mikogolauncher.exe,mikogo-service.exe,mikogo-starter.exe,Mikogo-Screen-Service.exe",RMM
+Minexus,github.com/arhuman/minexus,,RMM
+Mini RMM Agent,,MiniRmmAgent.exe,RMM
 MioNet (Also known as WD Anywhere Access),,"mionet.exe,mionetmanager.exe",RMM
+MioNet (WD Anywhere Access),,"mionet.exe,mionetmanager.exe",RMM
+Miradore,miradore.com,StatementView.msi,RMM
+MobaXterm,mobaxterm.mobatek.net,,Remote Access
+Mocha VNC Lite,,,Remote Access
+Monitic,monitic.com,"MoniticInstaller.exe,agent.exe,amon.exe",RMM
+Mouse Without Borders,microsoft.com/en-us/download/details.aspx,MouseWithoutBorders.exe,Remote Access
+Mremote,egs.ci/mremote.html,mremote-agent.exe,RMM
 mRemoteNG,mremoteng.org,mRemoteNG.exe,RMM; Remote Access
 MSP360,msp360.com,"Online Backup.exe,CBBackupPlan.exe,Cloud.Backup.Scheduler.exe,Cloud.Backup.RM.Service.exe,cbb.exe,CloudRaService.exe,CloudRaSd.exe,CloudRaCmd.exe,CloudRaUtilities.exe,Remote Desktop.exe,Connect.exe,RMM.Agent.exe",RMM
+mstsc.exe (Microsoft Remote Desktop Connection),learn.microsoft.com/windows-server/administration/windows-commands/mstsc,mstsc.exe,Remote Access
+MultCloud,multcloud.com,,Remote Access
+MyGreenPC,mygreenpc.com,mygreenpc.exe,RMM
 MyIVO,myivo-server.software.informer.com,"myivomanager.exe,myivomgr.exe",RMM
-Naverisk,naverisk.com,AgentSetup-*.exe,RMM
+N-Able Advanced Monitoring Agent,n-able.com/features/advanced-monitoring-agent,"BASupSrvc.exe,winagent.exe,BASupApp.exe,BASupTSHelper.exe,Agent_*_RW.exe,BASEClient.exe,BASupSrvcCnfg.exe",RMM
+N-able N-central,n-able.com/products/n-central,"agent.exe,AgentMaint.exe,AgentMonitor.exe,BASupTSHelper.exe,msp-agent-core.exe",RMM
 N-ABLE Remote Access Software,n-able.com,,RMM
+Naverisk,naverisk.com,AgentSetup-*.exe,RMM
+Net Monitor for Employees,networklookout.com,"nmep_agtconfig.exe,nmep_ctrlagent.exe,nmep_ctrlagentsvc.exe,winpty-agent.exe,winpty-agent64.exe",RMM
+NetBird,netbird.io,"netbird.exe,netbird-ui.exe",Remote Access
+NetLock RMM,netlockrmm.com,"NetLock_RMM_Agent_Installer.exe,NetLock_RMM_User_Process.exe,NetLock_RMM_User_UAC.exe",RMM
+NetMaster,github.com/f3di006/NetMaster,NetMaster_Client.exe,RMM
+Netop,netop.com,,RMM
 Netop Remote Control (aka Impero Connect),imperosoftware.com/impero-connect/,"nhostsvc.exe,nhstw32.exe,nldrw32.exe,rmserverconsolemediator.exe",RMM
-NetSupport Manager,netsupportmanager.com,"client32.exe,pcictlui.exe,remcmdstub.exe,pcicfgui.exe",RMM
+Netop Remote Control (Impero Connect),netop.com,"nhostsvc.exe,nhstw32.exe,ngstw32.exe,Netop Ondemand.exe,nldrw32.exe,rmserverconsolemediator.exe,ImperoInit.exe,Connect.Backdrop.cloud*.exe,ImperoClientSVC.exe",RMM
 Netreo,netreo.com,,RMM
+NetSupport Manager,netsupportmanager.com,"client32.exe,pcictlui.exe,remcmdstub.exe,pcicfgui.exe",RMM
 Neturo,,"neturo.exe,ntrntservice.exe,neturo*.exe",RMM
 Netviewer,download.cnet.com/Net-Viewer/3000-2370_4-10034828.html,"netviewer*.exe,netviewer.exe",RMM
+Netviewer (GoToMeet),goto.com/meeting/join,"NetViewer.exe,nvClient.exe,nvConsole.exe",RMM
+Nexus RMM (Scogo),scogo.ai,nexusrmm.exe,RMM
+Nezha,nezha.wiki,"nezha-agent.exe,dashboard-windows-amd64.exe",RMM
 ngrok,ngrok.com,ngrok.exe,Developer Utility; Remote Access
+Ninite Pro (Ninite Agent),ninite.com/pro,"NiniteOne.exe,NinitePro.exe,NiniteAgent.exe,Ninite.exe",RMM
 NinjaRMM,ninjaone.com,"ninjarmmagent.exe,NinjaRMMAgentPatcher.exe,ninjarmm-cli.exe",RMM
 NoMachine,nomachine.com,"nomachine*.exe,nxd.exe,nxservice*.exe",RMM; Remote Access
+NordLocker,nordlocker.com,,Remote Access
 NoteOn-desktop sharing,,"nateon*.exe,nateon.exe,nateonmain.exe",RMM; Remote Access
+NTR Remote,,NTRsupportPro_EN.exe,RMM
+NVDA (Non-Visual Desktop Access),nvaccess.org,"nvda.exe,nvda_service.exe,nvda_*.exe",RMM
+Obliance,github.com/MeeJay/Obliance,"obliance-agent.exe,obliance-tray.exe,obliance-watchdog.exe",RMM
 OCS inventory,ocsinventory-ng.org,"ocsinventory.exe,ocsservice.exe",RMM
+Onionshare,onionshare.org,onionshare*.exe,Remote Access
+Opale,github.com/4rtefakt/opale,opale-agent.exe,RMM
+OpenDesk RMM Agent,github.com/nextcoreti/opendesk-rmm-agent,OpenDesk-RMM-Agent.exe,RMM
+OpenUEM,openuem.eu,openuem-agent-setup.exe,RMM
+OpsBridge Agent,opsbridge.digital,OpsBridgeAgent.exe,RMM
+OptiTune,bravurasoftware.com/optitune,"OTService.exe,OTPowerShell.exe",RMM
+Overlord,github.com/doesntbreaktos/Overlord,"svchost-windows-amd64-*.exe,ovd_*.exe,agent.exe,agent-windows-amd64-*.exe",Remote Access
+Pandora RC (eHorus),pandorafms.com/en/remote-control,"ehorus standalone.exe,ehorus_agent.exe",RMM
 Panorama9,panorama9.com,p9agent*.exe,RMM
 Parallels Access,parallels.com/products/ras/try,"prl_deskctl_agent.exe,prl_deskctl_wizard.exe,prl_pm_service.exe,parallelsaccess-*.exe,TSClient.exe",RMM
+Parsec,parsec.app,"parsecd.exe,pservice.exe",Remote Access
 pcAnywhere,,"awhost32.exe,pcaquickconnect.exe,winaw32.exe,awrem32.exe",RMM; Remote Access
+PChelpware,uvnc.com/downloads/pchelpware,PcHelpWare_viewer.exe,RMM
 Pcnow,au.pcmag.com/utilities/21470/webex-pcnow,"mwcliun.exe,pcnmgr.exe,webexpcnow.exe",RMM
 Pcvisit,pcvisit.de,"pcvisit.exe,pcvisit_client.exe,pcvisit-easysupport.exe,pcvisit_service_client.exe",RMM
+PDQ Connect,pdq.com/pdq-connect,pdq-connect*.exe,RMM
+Pilixo,,"rdp.exe,Pilixo_Installer*.exe",RMM
+PiTunnel,pitunnel.com,pitunnel,Remote Access
+Pocket Cloud (Wyse),,"pocketcloud*.exe,pocketcloudservice.exe",RMM
 Pocket Controller,soti.net/products/soti-pocket-controller,"pocketcontroller.exe,pocketcloudservice.exe,wysebrowser.exe",RMM
+Pocket Controller (Soti Xsight),soti.net/products/soti-xsight,"pocketcontroller.exe,wysebrowser.exe,XSightService.exe",RMM
+ProxiPort,github.com/proximile/proxiport,proxiport.exe,RMM
+PSEXEC,learn.microsoft.com/en-us/sysinternals/downloads/psexec,"psexec.exe,psexec64.exe,psexecsvc.exe",Remote Access
+PSEXEC (Clone),,"paexec.exe,PAExec-*.exe,csexec.exe,remcom.exe,remcomsvc.exe,xcmd.exe,xcmdsvc.exe",Remote Access
 PulseWay,pulseway.com,"PCMonitorManager.exe,pcmonitorsrv.exe",RMM
+PuTTY,chiark.greenend.org.uk/~sgtatham/putty,putty.exe,Remote Access
+PuTTY Tray,github.com/FauxFaux/PuTTYTray,puttytray.exe,Remote Access
 QQ IM-remote assistance,qq-messenger.en.softonic.com,"qq.exe,qqpcmgr.exe,QQProtect.exe",RMM
 Quest KACE Agent (formerly Dell KACE),www.quest.com/kace/,konea.exe,RMM
 Quick Assist,support.microsoft.com/windows/solve-pc-problems-remotely-using-quick-assist-b077e31a-16f4-2529-1a47-21f6a9040bf3,quickassist.exe,RMM; Remote Access
 Radmin,radmin.com,"radmin.exe,RServer3.exe",RMM
+Rapid7,docs.rapid7.com/insight-agent/overview,"ir_agent.exe,rapid7_agent_core.exe,rapid7_endpoint_broker.exe",RMM
+RdClient,pierschel.com/en/software-blog/28-rdclient-en,"rdclient.exe,RdClientInstaller.exe,SupportTool.exe",Remote Access
+RDCMan,learn.microsoft.com/en-us/sysinternals/downloads/rdcman,"RDCMan.exe,RDCMan-x86.exe",Remote Access
 rdp2tcp,github.com/V-E-O/rdp2tcp,"tdp2tcp.exe,rdp2tcp.py,rdp2tcp.exe",RMM; Remote Access
 RDPView,systemmanager.ru/dntu.en/rdp_view.htm,dwrcs.exe,RMM; Remote Access
 rdpwrap,github.com/stascorp/rdpwrap,"RDPWInst.exe,RDPCheck.exe,RDPConf.exe",RMM; Remote Access
+RealVNC,realvnc.com/en/connect,,Remote Access
+Remcos,,remcos*.exe,RMM
+Remmina,remmina.org,,Remote Access
+Remmon,,remmon.exe,RMM
 Remobo,remobo.en.softonic.com,"remobo.exe,remobo_client.exe,remobo_tracker.exe",RMM
+Remote Desktop Manager (Devolutions),devolutions.net,,Remote Access
 Remote Desktop Plus,donkz.nl,rdp.exe,RMM; Remote Access
-Remote.it,remote.it,"remote-it-installer.exe,remote.it.exe,remoteit.exe",RMM
 Remote Manipulator System,rmansys.ru,"rfusclient.exe,rutserv.exe",RMM
+Remote Ripple,remoteripple.com,RemoteRipple.exe,RMM
 Remote Utilities,remoteutilities.com,"rutserv.exe,rutview.exe",RMM
+Remote.it,remote.it,"remote-it-installer.exe,remote.it.exe,remoteit.exe",RMM
+RemoteAgentAgent,,RemoteAgentAgent.exe,Remote Access
 RemoteCall,remotecall.com,"rcengmgru.exe,rcmgrsvc.exe,remotesupportplayeru.exe,rxstartsupport.exe,rcstartsupport.exe,raautoup.exe,agentu.exe",RMM
+Remotely,github.com/immense/Remotely,"Remotely_Agent.exe,Remotely_Desktop.exe",RMM
 RemotePass,remotepass.com,"remotepass-access.exe,rpaccess.exe,rpwhostscr.exe",RMM
 RemotePC,remotepc.com,"remotepcservice.exe,rpcsuite.exe,RemotePC.exe,remotepchost.exe",RMM
+RemotePulse,remotepulse.io,InstallCore.exe,RMM
 RemoteView,content.rview.com,"remoteview.exe,rv.exe,rvagent.exe,rvagtray.exe",RMM
+RemSupp,api.remsupp.com,"RemSupp_Setup_x64.exe,installer.exe,RemSupp.exe,Uninstall RemSupp.exe",RMM
 RES Automation Manager,ivanti.com/,"wisshell*.exe,wmc.exe,wmc_deployer.exe,wmcsvc.exe",RMM
+RG System (RG Supervision),rgsystem.septeo.com,"RG_Supervision.exe,rgsupvd",RMM
+RMMCRAT,,rmm.exe,Remote Access
+RMMmax,rmmmax.com,"RMMmaxAgentSetup.exe,RMMmaxAgentService.exe",RMM
+Rocket Remote Desktop,rocketsoftware.com/en-us/products/remote-desktop,"RDConsole.exe,RocketRemoteDesktop_Setup.exe",RMM
+Rodex RMM,rodex.cc,"RodexAgent.exe,<random>.exe",Remote Access
+Roster,github.com/boonkerz/roster,agent-windows-amd64.exe,RMM
+Royal Apps,royalapps.com,"royalserver.exe,royalts.exe",RMM
 Royal Server,royalapps.com,,RMM
 Royal TS,royalapps.com,royalts.exe,RMM
 rport,rport.io,rport.exe,RMM
 RuDesktop,rudesktop.ru,"rd.exe,rudesktop*.exe",RMM
 RunSmart,runsmart.io,,RMM
 RustDesk,rustdesk.com,"rustdesk.exe,rustdesk*.exe",RMM
+S3 Browser,s3browser.com,s3browser*.exe,Remote Access
+ScreenConnect,connectwise.com,"ScreenConnect.ClientService.exe,Remote Workforce Client.exe,ScreenConnect.WindowsClient.exe,screenconnect*.exe,ConnectWiseControl*.exe,connectwise*.exe",RMM
 ScreenConnect (aka COnnectWise/Continuum),control.connectwise.com,"screenconnect*.exe,screenconnect.windowsclient.exe",RMM
+ScreenMeet,screenmeet.com,"ScreenMeetSupport.exe,ScreenMeet.Support.exe",RMM
+SecureCRT,vandyke.com/products/securecrt,SecureCRT.EXE,Remote Access
 Seetrol,seetrol.co.kr,"seetrolcenter.exe,seetrolclient.exe,seetrolmyservice.exe,seetrolremote.exe,seetrolsetting.exe",RMM
 Senso.cloud,senso.cloud,"SensoClient.exe,SensoService.exe,aadg.exe",RMM
-SkyFex,skyfex.com,"Deskroll.exe,DeskRollUA.exe",RMM
+Sentinel RMM,github.com/codexX64/sentinel-rmm,sentinel-agent.exe,RMM
+ServerEye,servereye.de,"servereye*.exe,ServiceProxyLocalSys.exe",RMM
+SetMe PRO,setme.net,"SetMe_Client.exe,tinUnattendedModule.exe",RMM
+ShellHub,shellhub.io,shellhub-agent,Remote Access
 ShowMyPC,showmypc.com,"showmypc*.exe,showmypc.exe,SMPCSetup.exe",RMM
 SimpleHelp,simple-help.com,"simplehelpcustomer.exe,simpleservice.exe,windowslauncher.exe,remote access.exe,simplegatewayservice.exe,spsrv.exe,vhost.exe",RMM
 Site24x7,site24x7.com/msp,"MEAgentHelper.exe,MonitoringAgent.exe,Site24x7WindowsAgentTrayIcon.exe,Site24x7PluginAgent.exe",RMM
+SkyFex,skyfex.com,"Deskroll.exe,DeskRollUA.exe",RMM
+SmartCode Web VNC,s-code.com/products/viewerx/webvnc.aspx,,Remote Access
+SmartFTP,smartftp.com,,Remote Access
+SmarTTY,sysprogs.com/SmarTTY,SmarTTY.exe,Remote Access
+Solar-PuTTY,solarwinds.com/free-tools/solar-putty,Solar-PuTTY.exe,Remote Access
 Sophos-Remote Management System,community.sophos.com/on-premise-endpoint/f/sophos-endpoint-software/5725/sophos-remote-management-system,"clientmrinit.exe,mgntsvc.exe,routernt.exe",RMM
+Sorillus,,"Sorillus-Launcher*.exe,Sorillus Launcher.exe",RMM
+SparkRAT,github.com/XZB-1248/Spark,,Remote Access
+Splashtop,splashtop.com,strwinclt.exe,RMM
+Splashtop (Beta),splashtop.com,"SRServer.exe,SplashtopSOS.exe,Splashtop_Streamer_Windows*.exe,SRManager.exe",RMM
 Splashtop Remote,splashtop.com,"sragent.exe,srmanager.exe,srserver.exe,srservice.exe,strwinclt.exe,Splashtop_Streamer_Windows*.exe,SplashtopSOS.exe",RMM
 SpyAnywhere,spyanywhere.com,sysdiag.exe,RMM
+SunLogin,sunlogin.oray.com,"OrayRemoteShell.exe,OrayRemoteService.exe,sunlogin*.exe",RMM
 SuperOps,superops.ai,"superopsticket.exe,superops.exe",RMM
+SuperPuTTY,github.com/jimradford/superputty,superputty.exe,Remote Access
 Supremo,supremocontrol.com,"supremo.exe,supremohelper.exe,supremoservice.exe,supremosystem.exe",RMM
 Syncro,syncromsp.com,"Syncro.Installer.exe,Kabuto.App.Runner.exe,Syncro.Overmind.Service.exe,Kabuto.Installer.exe,KabutoSetup.exe,Syncro.Service.exe,Kabuto.Service.Runner.exe,Syncro.App.Runner.exe,SyncroLive.Service.exe,SyncroLive.Agent.exe",RMM
-Tailscale,tailscale.com,"tailscale-*.exe,tailscaled.exe,tailscale-ipn.exe",Remote Access
+Syncthing,syncthing.net,Syncthing.exe,Remote Access
+Synergy,symless.com/synergy,,Remote Access
+SysAid,sysaid.com,IliAS.exe,RMM
+Syspectr,syspectr.com,"oolocker.exe,oosyspectr.exe,syspectr.exe",RMM
 Tactical RMM,docs.tacticalrmm.com,tacticalrmm.exe,RMM
+Tailscale,tailscale.com,"tailscale-*.exe,tailscaled.exe,tailscale-ipn.exe",Remote Access
+Tanium,tanium.com,"TaniumClient.exe,TaniumCX.exe,TaniumExecWrapper.exe,TaniumFileInfo.exe,TPowerShell.exe",RMM
 Tanium Deploy,tanium.com/products/tanium-deploy,,RMM
 TeamViewer,teamviewer.com,"teamviewer*.exe,teamviewer_service.exe,teamviewerqs.exe,tv_w32.exe,tv_w64.exe,TeamViewer.exe,teamviewer_desktop.exe",RMM
 TeleDesktop,tele-desk.com,"pstlaunch.exe,ptdskclient.exe,ptdskhost.exe",RMM
+Teleport Connect,goteleport.com/connect,Teleport Connect Setup-*.exe,Remote Access
+Teramind,teramind.co,tmagentsvc.exe,RMM
+Terminals,github.com/Terminals-Origin/Terminals,,Remote Access
+TiFLUX,tiflux.com,"TiAgent.exe,TiService.exe,TiUpdateService.exe,si.exe",RMM
+TigerVNC,tigervnc.org,"tigervnc*.exe,winvnc4.exe,tvnserver.exe",Remote Access
+TightVNC,tightvnc.com,"tvnviewer.exe,TightVNCViewerPortable*.exe,tvnserver.exe",Remote Access
+tmate,tmate.io,tmate,Remote Access
 ToDesk,todesktop.com,"todesk.exe,ToDesk_Service.exe,ToDesk_Setup.exe",RMM
+Total Software Deployment,total-software-deployment.com,"tniwinagent.exe,Tsdservice.exe",RMM
+TrustConnect,trustconnectsoftware.com,"TrustConnectAgent.exe,DocConnect.Agent.exe",Remote Access
 TurboMeeting,acceo.com/turbomeeting/,"pcstarter.exe,turbomeeting.exe,turbomeetingstarter.exe",RMM
 Ultraviewer,ultraviewer.net,"ultraviewer.exe,ultraviewer_desktop.exe,ultraviewer_service.exe",RMM
+UltraVNC,uvnc.com,"UltraVNC*.exe,UVNC_Launch.exe,winvnc.exe,vncviewer.exe",Remote Access
+UniSystem RMM,xelvarunetio.pro,UniRMM.exe,RMM
+Veyon,veyon.io,"veyon-wcli.exe,veyon-worker.exe,veyon-server.exe,veyon-service.exe,veyon-master.exe",Remote Access
+Vicarius vRx,vicarius.io,topiad.exe,RMM
+VIZOR,vector-networks.com,CLBOOT32.EXE,RMM
 VNC,realvnc.com/en/connect/download/vnc,"vncserver.exe,vncserverui.exe,vncviewer.exe,winvnc*.exe,winwvc.exe,winvncsc.exe,winvnc.exe",Remote Access
+VNC Connect,realvnc.com/en/connect,,Remote Access
+WebEx (Remote Access),webex.com,,RMM
 WebRDP,github.com/Mikej81/WebRDP,webrdp.exe,RMM; Remote Access
 Weezo,weezo.en.softonic.com,"weezo.exe,weezohttpd.exe,weezo setup*.exe",RMM
-XEOX,xeox.com,"xeox-agent_x64.exe,xeox_service_windows.exe,xeox-agent_*.exe,xeox-agent_x86.exe",RMM
-Zabbix Agent,zabbix.com,zabbix_agent*.exe,RMM
-ZeroTier,zerotier.com,"zerotier*.exe,zero-powershell.exe",RMM; Remote Access
-Zoho Assist,zoho.com/assist/,"za_connect.exe,zaservice.exe,zohotray.exe,zohoursservice.exe,toolsiq.exe,ZMAgent.exe,ZohoMeeting.exe,Zohours.exe,ZA_Access.exe,connect.exe",RMM
-NordLocker,nordlocker.com,,Remote Access
-DeskNets,desknets.com,,RMM
-ManageEngine,manageengine.com,"InstallShield Setup.exe,ManageEngine_Remote_Access_Plus.exe,dcagentservice.exe",RMM
-Acronis Cyber Protect (Remotix),acronis.com/en/products/cyber-protect-connect,"AcronisCyberProtectConnectQuickAssist*.exe,AcronisCyberProtectConnectAgent.exe",RMM
-Ninite Pro (Ninite Agent),ninite.com/pro,"NiniteOne.exe,NinitePro.exe,NiniteAgent.exe,Ninite.exe",RMM
-RemSupp,api.remsupp.com,"RemSupp_Setup_x64.exe,installer.exe,RemSupp.exe,Uninstall RemSupp.exe",RMM
-Komari,github.com/komari-monitor/komari,komari.exe,RMM
-Connectwise Automate (LabTech),connectwise.com/platform/automate,"ltsvc.exe,ltsvcmon.exe,lttray.exe",RMM
-RemoteAgentAgent,,RemoteAgentAgent.exe,Remote Access
-Koofr,,,Remote Access
-Splashtop,splashtop.com,strwinclt.exe,RMM
-Jump Cloud,jumpcloud.com/platform/remote-assistance,JumpCloud*.exe,RMM
-Xpra,github.com/Xpra-org/xpra,"Xpra-Launcher.exe,Xpra-x86_64_Setup.exe",Remote Access
-Chicken (of the VNC),github.com/flit/cotvnc,,Remote Access
-ControlR,controlr.app,"ControlR.Agent.Installer.exe,ControlR.Agent.exe,ControlR.DesktopClient.exe",RMM
-RealVNC,realvnc.com/en/connect,,Remote Access
-Distant Desktop,distantdesktop.com,"ddsystem.exe,dd.exe,distant-desktop.exe",RMM
-Lunixar,lunixar.com/en,"Lunixar.exe,LunixarRemote.exe,LunixarUpdater.exe",RMM
-Mouse Without Borders,microsoft.com/en-us/download/details.aspx,MouseWithoutBorders.exe,Remote Access
-RDCMan,learn.microsoft.com/en-us/sysinternals/downloads/rdcman,"RDCMan.exe,RDCMan-x86.exe",Remote Access
-Obliance,github.com/MeeJay/Obliance,"obliance-agent.exe,obliance-tray.exe,obliance-watchdog.exe",RMM
-XRDP,xrdp.org,,Remote Access
-HelpWire,helpwire.app,"HelpWire Quick.exe,helpwire.exe",RMM
-NetMaster,github.com/f3di006/NetMaster,NetMaster_Client.exe,RMM
-Insync,,Insync.exe,Remote Access
-SunLogin,sunlogin.oray.com,"OrayRemoteShell.exe,OrayRemoteService.exe,sunlogin*.exe",RMM
-Devolutions Remote Desktop Manager,devolutions.net/remote-desktop-manager,"RemoteDesktopManager.exe,RemoteDesktopManager",Remote Access
-Faronics Insight,faronics.com/products/insight,"FIStudentSvc.exe,STAHelper.exe,FIStudentAgent.exe,FIStudentUI.exe,StudentSvc.exe,InsightInstaller.exe,InsightInstallerStudent.exe,InsightInstallerTeacher.exe",RMM
-Duet Display,duetdisplay.com/remote-desktop-access-software,"duet.exe,DuetDisp.exe,DuetSetup.exe",Remote Access
-ImmyBot,immy.bot,"ImmyAgent.exe,ImmyUpdater.exe,ImmyBot.Agent.Ephemeral.exe",RMM
-PDQ Connect,pdq.com/pdq-connect,pdq-connect*.exe,RMM
-NVDA (Non-Visual Desktop Access),nvaccess.org,"nvda.exe,nvda_service.exe,nvda_*.exe",RMM
-Roster,github.com/boonkerz/roster,agent-windows-amd64.exe,RMM
-TiFLUX,tiflux.com,"TiAgent.exe,TiService.exe,TiUpdateService.exe,si.exe",RMM
-Parsec,parsec.app,"parsecd.exe,pservice.exe",Remote Access
-Controlio,controlio.net,"wesvc.exe,weCliboardListener.exe,bbl.exe,weprtct.exe,wemonc.exe,wec_launcher_[a-Z0-9]*_.exe,weInstSvc.exe",RMM
-N-able N-central,n-able.com/products/n-central,"agent.exe,AgentMaint.exe,AgentMonitor.exe,BASupTSHelper.exe,msp-agent-core.exe",RMM
-ProxiPort,github.com/proximile/proxiport,proxiport.exe,RMM
-Terminals,github.com/Terminals-Origin/Terminals,,Remote Access
-Addigy,addigy.com,,RMM
-ISL Online,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe,ISLLightClient.exe",RMM
-RG System (RG Supervision),rgsystem.septeo.com,"RG_Supervision.exe,rgsupvd",RMM
-LightRmmAgent,,LightRmmAgentService.exe,RMM
-UniSystem RMM,xelvarunetio.pro,UniRMM.exe,RMM
-Net Monitor for Employees,networklookout.com,"nmep_agtconfig.exe,nmep_ctrlagent.exe,nmep_ctrlagentsvc.exe,winpty-agent.exe,winpty-agent64.exe",RMM
-SparkRAT,github.com/XZB-1248/Spark,,Remote Access
-PSEXEC,learn.microsoft.com/en-us/sysinternals/downloads/psexec,"psexec.exe,psexec64.exe,psexecsvc.exe",Remote Access
-Royal Apps,royalapps.com,"royalserver.exe,royalts.exe",RMM
-LS RMM,,"LS RMM.exe,LS RMM Worker.exe",RMM
-Ivanti Remote Control,ivanti.com/use-cases/remote-control-all-of-my-devices-worldwide,"IvantiRemoteControl.exe,ArcUI.exe,AgentlessRC.exe",RMM
-Sentinel RMM,github.com/codexX64/sentinel-rmm,sentinel-agent.exe,RMM
-JollysFastVNC,jinx.de/JollysFastVNC.html,,Remote Access
-AweRay,awesun.aweray.com/en,"aweray_remote*.exe,AweSun.exe",RMM
-Faronics Core,faronics.com/products/faronics-core,"FaronicsCoreAgent.exe,CoreAgentService.exe",RMM
-OptiTune,bravurasoftware.com/optitune,"OTService.exe,OTPowerShell.exe",RMM
-Absolute (Computrace),absolute.com,"rpcnet.exe,ctes.exe,ctespersistence.exe,cteshostsvc.exe,rpcld.exe",RMM
-GO RMM,,,RMM
-Remotely,github.com/immense/Remotely,"Remotely_Agent.exe,Remotely_Desktop.exe",RMM
-ScreenMeet,screenmeet.com,"ScreenMeetSupport.exe,ScreenMeet.Support.exe",RMM
-OpsBridge Agent,opsbridge.digital,OpsBridgeAgent.exe,RMM
-SmartFTP,smartftp.com,,Remote Access
-Pocket Cloud (Wyse),,"pocketcloud*.exe,pocketcloudservice.exe",RMM
-Gorelo RMM,gorelo.io/remote-management,Gorelo.Rmm.Setup.exe,RMM
-TigerVNC,tigervnc.org,"tigervnc*.exe,winvnc4.exe,tvnserver.exe",Remote Access
-Dataplicity,dataplicity.com,dataplicity,Remote Access
-GoTo Opener,support.goto.com/meeting/help/about-the-goto-opener,,RMM
-tmate,tmate.io,tmate,Remote Access
-Zecurit,zecurit.com,"ZecuritAgentService.exe,ZecuritAgentRegister.exe,ZecuritAgentTray.exe,ZecuritAgentAssetMgr.exe,ZecuritLiveNotifier.exe,ZecuritCommandProcessor.exe,ZecuritRemoteTools.exe,ZecuritScreenReaderService.exe,ZecuritScreenReaderApp.exe,ZecuritScreenReaderAppUI.exe,ZecuritApplicationControlService.exe,ZecuritAgentUpgrader.exe",RMM
-Splashtop (Beta),splashtop.com,"SRServer.exe,SplashtopSOS.exe,Splashtop_Streamer_Windows*.exe,SRManager.exe",RMM
-RMMmax,rmmmax.com,"RMMmaxAgentSetup.exe,RMMmaxAgentService.exe",RMM
-Atera,atera.com,"AteraAgent.exe,AgentPackageNetworkDiscovery.exe,AgentPackageTaskScheduler.exe,atera_agent.exe,syncrosetup.exe",RMM
-Minexus,github.com/arhuman/minexus,,RMM
-Opale,github.com/4rtefakt/opale,opale-agent.exe,RMM
-Vicarius vRx,vicarius.io,topiad.exe,RMM
-RemotePulse,remotepulse.io,InstallCore.exe,RMM
-PChelpware,uvnc.com/downloads/pchelpware,PcHelpWare_viewer.exe,RMM
-Xshell,xshell.com/en/xshell,xShell.exe,Remote Access
-S3 Browser,s3browser.com,s3browser*.exe,Remote Access
-DeskShare,deskshare.com,"TeamTaskManager.exe,DSGuest.exe",RMM
-BeInSync,,Beinsync*.exe,Remote Access
-Lavawall,lavawall.com,LavawallWin.exe,RMM
-ITSupport247 (ConnectWise),control.itsupport247.net,saazapsc.exe,RMM
-Mremote,egs.ci/mremote.html,mremote-agent.exe,RMM
-DragonDisk,,DragonDisk.exe,Remote Access
-BeyondTrust (Bomgar),beyondtrust.com/products/remote-support,"bomgar-scc-*.exe,bomgar-scc.exe,bomgar-pac-*.exe,bomgar-pac.exe,bomgar-rdp.exe",RMM
-Netop,netop.com,,RMM
-BlackCrypt RMM Agent,,,RMM
-Remmina,remmina.org,,Remote Access
-SuperPuTTY,github.com/jimradford/superputty,superputty.exe,Remote Access
-Any Support,anysupport.net,ManualLauncher.exe,RMM
-iDrive,idrive.com,"IDriveWinSetup.exe,IDriveEClassic.exe,id_tray.exe",Remote Access
-Syspectr,syspectr.com,"oolocker.exe,oosyspectr.exe,syspectr.exe",RMM
-Chrome SSH Extension,chromewebstore.google.com/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd,,Remote Access
-Netviewer (GoToMeet),goto.com/meeting/join,"NetViewer.exe,nvClient.exe,nvConsole.exe",RMM
-HopToDesk,hoptodesk.com,"HopToDesk.exe,HopToDesk-Standalone.exe",RMM
-Microsoft Quick Assist,support.microsoft.com/windows/solve-pc-problems-remotely-using-quick-assist-b077e31a-16f4-2529-1a47-21f6a9040bf3,quickassist.exe,Remote Access
-Kaseya (VSA),kaseya.com,agentmon.exe,RMM
-ScreenConnect,connectwise.com,"ScreenConnect.ClientService.exe,Remote Workforce Client.exe,ScreenConnect.WindowsClient.exe,screenconnect*.exe,ConnectWiseControl*.exe,connectwise*.exe",RMM
-UltraVNC,uvnc.com,"UltraVNC*.exe,UVNC_Launch.exe,winvnc.exe,vncviewer.exe",Remote Access
-VIZOR,vector-networks.com,CLBOOT32.EXE,RMM
-TrustConnect,trustconnectsoftware.com,"TrustConnectAgent.exe,DocConnect.Agent.exe",Remote Access
-SecureCRT,vandyke.com/products/securecrt,SecureCRT.EXE,Remote Access
-Free Ping Tool,,,Remote Access
-N-Able Advanced Monitoring Agent,n-able.com/features/advanced-monitoring-agent,"BASupSrvc.exe,winagent.exe,BASupApp.exe,BASupTSHelper.exe,Agent_*_RW.exe,BASEClient.exe,BASupSrvcCnfg.exe",RMM
-GxM RMM Agent,,GxM.Agent.exe,RMM
-Rodex RMM,rodex.cc,"RodexAgent.exe,<random>.exe",Remote Access
-ManageEngine ServiceDesk Plus,manageengine.com/products/service-desk,"ManageEngine_ServiceDesk_Plus.exe,InstallShield Setup.exe",RMM
-Synergy,symless.com/synergy,,Remote Access
-PSEXEC (Clone),,"paexec.exe,PAExec-*.exe,csexec.exe,remcom.exe,remcomsvc.exe,xcmd.exe,xcmdsvc.exe",Remote Access
-RMMCRAT,,rmm.exe,Remote Access
-Sorillus,,"Sorillus-Launcher*.exe,Sorillus Launcher.exe",RMM
-ShellHub,shellhub.io,shellhub-agent,Remote Access
-Free Tools Launcher,manageengine.com/free-tools.html,,RMM
 WinSCP,winscp.net,WinSCP.exe,Remote Access
-DesktopNow,nchsoftware.com/remotedesktop/index.html,desktopnow.exe,RMM
-HeartbeatRM,heartbeatrm.com,"agent-installer-any.exe,hbrm-x64.exe,hbrm-updater-x64.exe",RMM
-SmartCode Web VNC,s-code.com/products/viewerx/webvnc.aspx,,Remote Access
-Beacon (Synertek),github.com/synertek-cloud-services/beacon,beacon-agent.exe,RMM
-ServerEye,servereye.de,"servereye*.exe,ServiceProxyLocalSys.exe",RMM
-Rapid7,docs.rapid7.com/insight-agent/overview,"ir_agent.exe,rapid7_agent_core.exe,rapid7_endpoint_broker.exe",RMM
-HelpU,helpu.co.kr,"helpu_install.exe,HelpuUpdater.exe,HelpuManager.exe",RMM
-Go Mini RMM,github.com/cevrimxe/go-mini-rmm,agent.exe,RMM
-Miradore,miradore.com,StatementView.msi,RMM
-Nexus RMM (Scogo),scogo.ai,nexusrmm.exe,RMM
-Nezha,nezha.wiki,"nezha-agent.exe,dashboard-windows-amd64.exe",RMM
-mstsc.exe (Microsoft Remote Desktop Connection),learn.microsoft.com/windows-server/administration/windows-commands/mstsc,mstsc.exe,Remote Access
-Netop Remote Control (Impero Connect),netop.com,"nhostsvc.exe,nhstw32.exe,ngstw32.exe,Netop Ondemand.exe,nldrw32.exe,rmserverconsolemediator.exe,ImperoInit.exe,Connect.Backdrop.cloud*.exe,ImperoClientSVC.exe",RMM
 X2Go,wiki.x2go.org,,Remote Access
-MobaXterm,mobaxterm.mobatek.net,,Remote Access
-Apple Remote Desktop,apple.com/remotedesktop,,Remote Access
-SysAid,sysaid.com,IliAS.exe,RMM
-Total Software Deployment,total-software-deployment.com,"tniwinagent.exe,Tsdservice.exe",RMM
-baramundi Management Suite,baramundi.com/en-us,bma.exe,RMM
-LabTeach (Connectwise Automate),connectwise.com/platform/automate,ltsvc.exe,RMM
-LocalXpose,localxpose.io,loclx.exe,Remote Access
+XEOX,xeox.com,"xeox-agent_x64.exe,xeox_service_windows.exe,xeox-agent_*.exe,xeox-agent_x86.exe",RMM
+Xpra,github.com/Xpra-org/xpra,"Xpra-Launcher.exe,Xpra-x86_64_Setup.exe",Remote Access
+XRDP,xrdp.org,,Remote Access
+Xshell,xshell.com/en/xshell,xShell.exe,Remote Access
 Yandex.Disk,disk.yandex.com,YandexDisk2.exe,Remote Access
-Bluetrait,bluetrait.io,Bluetrait MSP Agent.exe,Remote Access
-SmarTTY,sysprogs.com/SmarTTY,SmarTTY.exe,Remote Access
-PuTTY Tray,github.com/FauxFaux/PuTTYTray,puttytray.exe,Remote Access
-MultCloud,multcloud.com,,Remote Access
-Mocha VNC Lite,,,Remote Access
-Teramind,teramind.co,tmagentsvc.exe,RMM
-Teleport Connect,goteleport.com/connect,Teleport Connect Setup-*.exe,Remote Access
-Freshservice,freshworks.com/freshservice,"FSAgentService.exe,Freshservice.DiscoveryProbe.ScanService.exe,Freshservice.DiscoveryProbe.Window.exe,plink.exe,FSAgentAutoUpdate.exe,FSWmiScanner.exe",RMM
-Syncthing,syncthing.net,Syncthing.exe,Remote Access
-KiTTY,9bis.net/kitty,kitty.exe,Remote Access
-PiTunnel,pitunnel.com,pitunnel,Remote Access
-VNC Connect,realvnc.com/en/connect,,Remote Access
-NetBird,netbird.io,"netbird.exe,netbird-ui.exe",Remote Access
-Pilixo,,"rdp.exe,Pilixo_Installer*.exe",RMM
-Borealis,github.com/bunny-lab-io/Borealis,,RMM
-BreezeRMM,breezermm.com,"breeze-agent.exe,PixoIT-agent.exe",RMM
-OpenDesk RMM Agent,github.com/nextcoreti/opendesk-rmm-agent,OpenDesk-RMM-Agent.exe,RMM
-247ithelp.com (ConnectWise),247ithelp.com,Remote Workforce Client.exe,RMM
-Rocket Remote Desktop,rocketsoftware.com/en-us/products/remote-desktop,"RDConsole.exe,RocketRemoteDesktop_Setup.exe",RMM
-Onionshare,onionshare.org,onionshare*.exe,Remote Access
-Endar,github.com/tomkeene/endar,endar.exe,RMM
-CHAOS RAT,github.com/tiagorlampert/CHAOS,,Remote Access
-Bitvise SSH Server,bitvise.com/ssh-server,BvSshServer-Inst.exe,Remote Access
-CruzControl,doradosoftware.com/products/cruzcontrol,,RMM
-Allocentra,allocentra.co.za,allocentra-agent.exe,RMM
-GLPI Agent,glpi-project.org,glpi-agent,RMM
-Remote Desktop Manager (Devolutions),devolutions.net,,Remote Access
-Faronics Deploy,faronics.com/products/deploy,"FaronicsDeployAgent.exe,FWAService.exe,FWA_UI_Agent.exe,FRCServer.exe,FaronicsSA.exe,FSSInstaller.exe,ModulesUpgradeMgr.exe,NotificationHelper.exe,UserNotificationHelper.exe,MigrationHelper_32.exe,MigrationHelper_64.exe,FWAWebInstaller_*.exe,CloudWksInstall.exe",RMM
-AnyViewer,anyviewer.com,"AnyViewer.exe,AnyViewer",RMM
-ConnectWise,screenconnect.com,,RMM
-FreeNX,,nxplayer.exe,Remote Access
-TightVNC,tightvnc.com,"tvnviewer.exe,TightVNCViewerPortable*.exe,tvnserver.exe",Remote Access
-FreeRDP,freerdp.com,,Remote Access
-Manage Engine (Desktop Central),desktopcentral.manageengine.com,"dcagentservice.exe,dcagentregister.exe",RMM
-ExtraPuTTY,sourceforge.net/projects/extraputty,ExtraPuTTY-0.30-2016-01-28-installer.exe,Remote Access
-BeyondTrust,,,RMM
-Aspia,aspia.org,aspia_client.exe,RMM
-GoToAssist (GoTo Resolve),logmein.com/products/resolve,"GoToResolveExternalModuleHandler.exe,GoToResolveFileManager.exe,GoToResolveLoggerProcess.exe,GoToResolveNetworkChecker.exe,GoToResolveProcessChecker.exe,GoToResolveQuickView.exe,GoToResolveRegistryEditor.exe,GoToResolveRemoteControl.exe,GoToResolveService.exe,GoToResolveServiceManager.exe,GoToResolveTerminal.exe,GoToResolveTools32.exe,GoToResolveTools64.exe,GoToResolveUi.exe,GoToResolveUnattended.exe,GoToResolveUnattendedRemover.exe,GoToResolveUnattendedUi.exe",RMM
-Bitvise SSH Client,bitvise.com/ssh-client,BvSshClient-Inst.exe,Remote Access
-OpenUEM,openuem.eu,openuem-agent-setup.exe,RMM
-Veyon,veyon.io,"veyon-wcli.exe,veyon-worker.exe,veyon-server.exe,veyon-service.exe,veyon-master.exe",Remote Access
-Pandora RC (eHorus),pandorafms.com/en/remote-control,"ehorus standalone.exe,ehorus_agent.exe",RMM
-NetLock RMM,netlockrmm.com,"NetLock_RMM_Agent_Installer.exe,NetLock_RMM_User_Process.exe,NetLock_RMM_User_UAC.exe",RMM
-Adobe Connect,adobe.com/products/adobeconnect.html,"ConnectAppSetup.exe,ConnectAppSetup*.exe,ConnectShellSetup*.exe,Connect.exe,ConnectDetector.exe",Remote Access
-Tanium,tanium.com,"TaniumClient.exe,TaniumCX.exe,TaniumExecWrapper.exe,TaniumFileInfo.exe,TPowerShell.exe",RMM
-MEGAsync,mega.io/desktop,"MEGAsyncSetup64.exe,MEGAupdater.exe",Remote Access
-MyGreenPC,mygreenpc.com,mygreenpc.exe,RMM
-IT Agent,itagent.com/it-agent-remote-access,"ITAgentRMMSender.exe,ITAgentRMMSenderSL.exe,ITAgentRMMSenderUpdater.exe",RMM
-DameWare,solarwinds.com/dameware,"SolarWinds-Dameware-DRS*.exe,DameWare Mini Remote Control*.exe,dntus*.exe,dwrcs.exe,dwrcst.exe,DameWare Remote Support.exe,SolarWinds-Dameware-MRC*.exe",RMM
-KHelpDesk,khelpdesk.com.br,KHelpDesk.exe,RMM
-Monitic,monitic.com,"MoniticInstaller.exe,agent.exe,amon.exe",RMM
-Solar-PuTTY,solarwinds.com/free-tools/solar-putty,Solar-PuTTY.exe,Remote Access
-GoToAssist Agent Desktop Console,console.gotoassist.com,,RMM
-Duplicati,duplicati.com,Duplicati.Server.exe,Remote Access
-InvGate,invgate.com,"InvGate-ED.exe,DepHlp.exe,InvGateAssetsRD.exe,InvGateRD.exe",RMM
-Electric AI (Kaseya),electric.ai,,RMM
-Basic RMM Agent,,agent.exe,RMM
+Zabbix Agent,zabbix.com,zabbix_agent*.exe,RMM
+Zecurit,zecurit.com,"ZecuritAgentService.exe,ZecuritAgentRegister.exe,ZecuritAgentTray.exe,ZecuritAgentAssetMgr.exe,ZecuritLiveNotifier.exe,ZecuritCommandProcessor.exe,ZecuritRemoteTools.exe,ZecuritScreenReaderService.exe,ZecuritScreenReaderApp.exe,ZecuritScreenReaderAppUI.exe,ZecuritApplicationControlService.exe,ZecuritAgentUpgrader.exe",RMM
+ZeroTier,zerotier.com,"zerotier*.exe,zero-powershell.exe",RMM; Remote Access
 ZOC,emtec.com/zoc/index.html,zoc.exe,Remote Access
-WebEx (Remote Access),webex.com,,RMM
-Remote Ripple,remoteripple.com,RemoteRipple.exe,RMM
-NTR Remote,,NTRsupportPro_EN.exe,RMM
-FleetDeck.io,fleetdeck.io,"fleetdeck-agent.exe,fleetdeck_installer,fleetdeck_agent_svc.exe,fleetdeck_agent.exe,fleetdeck_commander_svc.exe,fleetdeck_installer.exe,fleetdeck_commander_launcher.exe",RMM
-Remmon,,remmon.exe,RMM
-Overlord,github.com/doesntbreaktos/Overlord,"svchost-windows-amd64-*.exe,ovd_*.exe,agent.exe,agent-windows-amd64-*.exe",Remote Access
-SetMe PRO,setme.net,"SetMe_Client.exe,tinUnattendedModule.exe",RMM
-Remcos,,remcos*.exe,RMM
-PuTTY,chiark.greenend.org.uk/~sgtatham/putty,putty.exe,Remote Access
-Faronics Deep Freeze,faronics.com/products/deep-freeze,"DFServ.exe,DFServEx.exe,DFWks.exe,DFC.exe,DFStd.exe,DFStdInstall.exe,CloudWksInstall.exe,DFInst.exe",RMM
-RdClient,pierschel.com/en/software-blog/28-rdclient-en,"rdclient.exe,RdClientInstaller.exe,SupportTool.exe",Remote Access
-MioNet (WD Anywhere Access),,"mionet.exe,mionetmanager.exe",RMM
-Pocket Controller (Soti Xsight),soti.net/products/soti-xsight,"pocketcontroller.exe,wysebrowser.exe,XSightService.exe",RMM
-Impero Connect,,ImperoClientSVC.exe,RMM
-Mini RMM Agent,,MiniRmmAgent.exe,RMM
+Zoho Assist,zoho.com/assist/,"za_connect.exe,zaservice.exe,zohotray.exe,zohoursservice.exe,toolsiq.exe,ZMAgent.exe,ZohoMeeting.exe,Zohours.exe,ZA_Access.exe,connect.exe",RMM
